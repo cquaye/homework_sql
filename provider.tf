@@ -12,5 +12,5 @@ terraform {
 provider "google" {
   project     = "dusty-class-6-5-carlton-quaye"
   region      = "us-central1"
-  credentials = "dusty-class-6-5-carlton-quaye-02096ed33190.json"
+  credentials = "*"
 }
